@@ -1,3 +1,4 @@
-Decide which business to order from
-decide what type of pizza should be ordered
-Order the pizza
+Step 1: Decide which business to order from
+Step 1a: If customer has already ordered previously, ask if customer wants to use same business
+Step 2:pdecide what type of pizza should be ordered
+Step 3:Order the pizza
